@@ -1,0 +1,22 @@
+/* src/Tuner.css (adiciona ou atualiza este estilo) */
+
+.start-button {
+  background-color: #61dafb; /* Cor de destaque */
+  color: #282c34;
+  border: none;
+  padding: 15px 30px;
+  font-size: 1.5em;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.1s ease;
+  margin-top: 30px;
+}
+
+.start-button:hover {
+  background-color: #4fb0d8;
+  transform: translateY(-2px);
+}
+
+.start-button:active {
+  transform: translateY(0);
+}
