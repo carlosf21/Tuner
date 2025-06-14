@@ -14,7 +14,7 @@ export function getNoteFromFrequency(frequency) {
   const roundedN = Math.round(n);
   const noteIndex = roundedN % 12;
   const normalizedNoteIndex = noteIndex < 0 ? noteIndex + 12 : noteIndex;
-  // const octave = Math.floor(roundedN / 12); // Esta linha deve estar comentada ou removida
+  // const octave = Math.floor(roundedN / 12); // Oitava
 
   return `${NOTES[normalizedNoteIndex]}`;
 }

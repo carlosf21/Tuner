@@ -1,7 +1,7 @@
 // src/App.js
 import React from "react";
 import Tuner from "./Tuner";
-import './App.css'; // Certifica-te que está importado
+import './App.css'; 
 
 function App() {
   return (
