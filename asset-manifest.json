@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tuner-app/static/css/main.ae690d6b.css",
+    "main.js": "/tuner-app/static/js/main.313c4fed.js",
+    "static/js/453.78a51ae7.chunk.js": "/tuner-app/static/js/453.78a51ae7.chunk.js",
+    "index.html": "/tuner-app/index.html",
+    "main.ae690d6b.css.map": "/tuner-app/static/css/main.ae690d6b.css.map",
+    "main.313c4fed.js.map": "/tuner-app/static/js/main.313c4fed.js.map",
+    "453.78a51ae7.chunk.js.map": "/tuner-app/static/js/453.78a51ae7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae690d6b.css",
+    "static/js/main.313c4fed.js"
+  ]
+}
