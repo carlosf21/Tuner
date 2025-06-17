@@ -1,6 +1,7 @@
 # Aplicação de Afinador
 
 Uma Web App de afinador de instrumentos musicais , que utiliza a Web Audio API para detetar a frequência do som captado pelo microfone e exibir a nota correspondente, juntamente com um indicador visual de afinação.
+Disponível em https://carlosf21.github.io/Tuner/.
 
 ## Funcionalidades
 
